@@ -1,10 +1,8 @@
-# 👨‍💻 Eric Wey
-
-[![Profile Views](https://komarev.com/ghpvc/?username=EricWey&color=blue&style=flat-square)](https://github.com/EricWey)
+# 🧑🏻‍💻 Eric Wey
 
 ## Sr. Manager, Decision & Strategy Automation
 
-> A passionate developer.
+> A passionate learner. Choose a job you love and you will never work a day in the life.
 
 ### 🏢 Experience
 
@@ -31,7 +29,7 @@ Decision Engines, Financial Automation, and Senior-focused Digital Content
 
 ### ⚡ Fun Fact
 
-I love coffee and milk, but not Latte. Built a 160,000-user community from scratch while transitioning into AI development
+I love coffee and milk, but not Latte. 
 
 ---
 
